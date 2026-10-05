@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug in Chirp
+description: Report a bug in Enzo
 labels: ["bug"]
 body:
   - type: markdown
@@ -9,8 +9,9 @@ body:
   - type: input
     id: version
     attributes:
-      label: Chirp version
-      placeholder: "e.g. 1.3.0"
+      label: Enzo version
+      description: If you still use Chirp, give its version.
+      placeholder: "e.g. 2.0.0"
     validations:
       required: true
   - type: input
@@ -30,11 +31,14 @@ body:
   - type: dropdown
     id: mode
     attributes:
-      label: Which mode?
+      label: Which part of Enzo?
       options:
-        - Solo Mode
-        - Meeting Mode
-        - Both
+        - Dictation
+        - Meetings and recordings
+        - Chat
+        - Recall
+        - Connected apps
+        - Account or plan
         - Other
     validations:
       required: true
@@ -50,7 +54,7 @@ body:
     attributes:
       label: Steps to reproduce
       placeholder: |
-        1. Open Chirp
+        1. Open Enzo
         2. ...
     validations:
       required: false
