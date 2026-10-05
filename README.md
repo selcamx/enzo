@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">Your superhuman assistant.</h3>
+<h3 align="center">Your clever assistant.</h3>
 
 <p align="center">
   Enzo types what you say, sits in on your meetings,<br>
