@@ -41,10 +41,6 @@
   <img src=".github/readme/hero.webp" width="100%" alt="Enzo's Chat window answering “Where did I leave off yesterday?” with sources from Pages, a meeting and Slack">
 </p>
 
-> [!NOTE]
-> **Enzo 2.0 is on its way.** This page describes Enzo 2.0. Until it ships, the
-> download is **Chirp 1.5.4**, the app Enzo replaces, and it updates to Enzo in place.
-
 <br>
 
 ## Type at the speed of sound
