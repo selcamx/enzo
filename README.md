@@ -10,7 +10,7 @@
 <h3 align="center">Your clever assistant.</h3>
 
 <p align="center">
-  Enzo sits in on your meetings, types what you say, remembers what you worked on<br>
+  Enzo sits in on your meetings, types what you say, remembers what you worked on,<br>
   and keeps track of what’s next. Your history stays on your Mac.
 </p>
 
