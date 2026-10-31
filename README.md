@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <sub>Free, no card needed &nbsp;·&nbsp; 6,000 dictated words and 60 meeting minutes a week &nbsp;·&nbsp; Apple silicon, macOS 15 or later</sub>
+  <sub>Free, no card needed &nbsp;·&nbsp; 5,000 dictated words and 50 meeting minutes a week &nbsp;·&nbsp; Apple silicon, macOS 15 or later</sub>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ in any app on your Mac.
   <img src=".github/readme/dictation.webp" width="600" alt="A dictated reply in Mail, landed at the cursor in one go, over a summer lake">
 </p>
 
-<p align="center"><sub>6,000 words a week on Free &nbsp;·&nbsp; Works offline &nbsp;·&nbsp; In any app on your Mac</sub></p>
+<p align="center"><sub>5,000 words a week on Free &nbsp;·&nbsp; Works offline &nbsp;·&nbsp; In any app on your Mac</sub></p>
 
 <br>
 
@@ -131,21 +131,22 @@ on top and in how much you can dictate and take notes on each week.
 
 | | Free<br><sub>$0</sub> | Plus<br><sub>$10 a month</sub> | Pro<br><sub>$20 a month</sub> |
 | :-- | :-: | :-: | :-: |
-| Dictation into your apps* | 6,000 words a week | 30,000 words a week | Unlimited |
-| Meetings with notes, briefs and follow-ups* | 60 minutes a week | 300 minutes a week | Unlimited |
+| Dictation into your apps* | 5,000 words a week | 30,000 words a week | Unlimited |
+| Meetings with notes, briefs and follow-ups* | 50 minutes a week | 300 minutes a week | Unlimited |
 | Recording, transcripts and speaker names | Unlimited | Unlimited | Unlimited |
-| AI usage* | Included | About 6× Free | 2× Plus |
+| AI usage* | Included | 6× Free | 3× Plus |
 | Chat effort | Low | Low, Medium and High | Low, Medium and High |
 | Answers drawn from | Today and your last working day | All your history | All your history |
 | Replies and messages Enzo drafts | You copy them | Sent from Enzo in Outlook; other mail opens as a draft | Sent from Enzo in Outlook; other mail opens as a draft |
 | Packages, bills and dates checked | Once a day | Every 15 minutes | Every 15 minutes |
 | Trackers: ask Chat to keep track of something | | ✓ | ✓ |
-| Recall names each stretch of your day | | ✓ | ✓ |
+| Recall names each stretch of your day | Your first finished day | ✓ | ✓ |
 | Follow-ups and routines at High effort | | | ✓ |
 
-**Try Plus free for 14 days.** Checkout takes a card and charges it when the trial
-ends unless you cancel. Paying yearly gets you two months free: $100 for Plus, $200
-for Pro. Plans are chosen and managed in the app.
+**14-day money-back guarantee on Plus and Pro.** Write to
+[hello@tryenzo.ai](mailto:hello@tryenzo.ai) within 14 days of your first payment for
+a full refund, and cancel anytime. Paying yearly gets you two months free: $100 for
+Plus, $200 for Pro. Plans are chosen and managed in the app.
 
 <sub>*Past a weekly limit on words or minutes, recordings and transcripts still save; dictation into your apps and meeting notes wait until it resets. AI usage renews every 5 hours, within a weekly limit. Long questions and High effort use more. On Free, notes, briefs and follow-ups come out of the same weekly limit.</sub>
 
