@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tryenzo.ai">
+  <a href="https://github.com/selcamx/enzo/releases/latest">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/readme/coming-soon-light.svg">
-      <img src=".github/readme/coming-soon-dark.svg" width="176" alt="Coming soon">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/readme/download-light.svg">
+      <img src=".github/readme/download-dark.svg" width="232" alt="Download for Mac">
     </picture>
   </a>
 </p>
@@ -71,14 +71,10 @@ answers while the call is on, and writes the notes after.
 
 ## Already knows your apps
 
-Connect Apple Mail or a personal Outlook account, your calendar, Notion and your
-folders, and Enzo answers from them alongside your meetings. Turn on **Recall** and
-it remembers what you worked on too: the apps, titles and text, never screenshots,
+Connect Apple Mail, Calendar, Reminders, Contacts, Notes, Messages and your folders,
+and Enzo answers from them alongside your meetings. More apps are coming. Turn on
+**Recall** and it remembers what you worked on too: the apps, titles and text, never screenshots,
 so you can find the proposal you had open last Tuesday.
-
-<p align="center">
-  <img src=".github/readme/connections.webp" width="600" alt="Enzo answering “When does Juno need the quote?” from an email and a call, with the apps it can read listed below">
-</p>
 
 <p align="center"><sub>Nothing to explain or paste in &nbsp;·&nbsp; Nothing sent without your click &nbsp;·&nbsp; You choose what it can read</sub></p>
 
@@ -89,11 +85,7 @@ so you can find the proposal you had open last Tuesday.
 Once your mail and calendar are connected, Enzo lists what needs you, what’s coming
 up and what you’re waiting on, all in one place: **Activity**.
 
-<p align="center">
-  <img src=".github/readme/keeps-track.webp" width="600" alt="Enzo’s Activity page listing a reply owed to Juno, a promised quote due Friday, a package arriving today and a question Maya hasn’t answered, with the notch saying “Arriving today · Amazon”">
-</p>
-
-<p align="center"><sub>Packages, returns, bills and renewals &nbsp;·&nbsp; Replies you owe, and who owes you one &nbsp;·&nbsp; On Plus, the notch tells you what changed</sub></p>
+<p align="center"><sub>Packages, returns, bills and renewals &nbsp;·&nbsp; Replies you owe, and what’s coming up &nbsp;·&nbsp; On Plus, the notch tells you what changed</sub></p>
 
 <br>
 
@@ -113,9 +105,9 @@ enough, a picture of your screen or a file you attached, through Enzo’s servic
 an AI provider. The service keeps none of it, and the provider keeps it only
 briefly to check for abuse.
 
-**You choose what runs.** Enzo works from the apps you connect, and one switch
-covers what its AI does on its own. Recall starts off. Turn anything off where it
-shows up, keep apps and sites out, or delete what was saved, whenever you like.
+**You choose what runs.** Enzo works from the apps you connect, and Settings shows
+what its AI does on its own. Recall starts off. Pause any app, keep apps and sites
+out, or delete what was saved, whenever you like.
 
 **Works without internet.** Dictation, recording and transcription need no
 connection. Only Chat and Enzo’s other AI features do.
@@ -137,7 +129,7 @@ on top and in how much you can dictate and take notes on each week.
 | AI usage* | Included | 6× Free | 3× Plus |
 | Chat effort | Low | Low, Medium and High | Low, Medium and High |
 | Answers drawn from | Today and your last working day | All your history | All your history |
-| Replies and messages Enzo drafts | You copy them | Sent from Enzo in Outlook; other mail opens as a draft | Sent from Enzo in Outlook; other mail opens as a draft |
+| Replies Enzo drafts | Open in your mail app | Open in your mail app | Open in your mail app |
 | Packages, bills and dates checked | Once a day | Every 15 minutes | Every 15 minutes |
 | Trackers: ask Chat to keep track of something | | ✓ | ✓ |
 | Recall names each stretch of your day | Your first finished day | ✓ | ✓ |
@@ -158,10 +150,9 @@ Plus, $200 for Pro. Plans are chosen and managed in the app.
 <summary><b>How do I get started?</b></summary>
 <br>
 
-Enzo 2.0 is coming soon. Once it’s out, download it, sign in with Apple, Google or
-an email code, and allow the permissions it asks for. Enzo downloads its speech
-models (about 630 MB), and then you can press your dictation key and talk. The free
-account applies your plan and measures AI usage; it never holds your recordings or
+Download Enzo, sign in with Apple, Google or an email code, and allow the permissions
+it asks for. Enzo downloads its models (about 1.1 GB). Dictation is ready after the
+first 520 MB: press your dictation key and talk. The free account applies your plan and measures AI usage; it never holds your recordings or
 chats.
 
 </details>
@@ -188,12 +179,11 @@ French and German, and Enzo tells which on its own. The app itself is in English
 <summary><b>What does Enzo keep track of?</b></summary>
 <br>
 
-Once Apple Mail or Outlook is connected: packages, returns, refunds, renewals,
+Once Apple Mail is connected: packages, returns, refunds, renewals,
 bills, school work, invitations and appointments. Enzo reads the sender, subject and
 preview of new mail on your Mac, by rules and with no AI, and lists what it finds in
-Activity. With its AI working on its own, it also finds the replies you owe and who
-you’re waiting on, sending the sender, subject and a short preview of those messages
-to do it.
+Activity. With its AI working on its own, it also finds the replies you owe, sending
+the sender, subject and a short preview of those messages to do it.
 
 </details>
 
@@ -226,5 +216,5 @@ For private support, billing or your account, email
 [hello@tryenzo.ai](mailto:hello@tryenzo.ai).
 
 <sub>This repository holds Enzo’s releases and issue tracker. Enzo is a commercial
-app; its source code isn’t published here. The releases so far are Chirp, Enzo’s
-earlier name; Enzo 2.0 will be the first under this one.</sub>
+app; its source code isn’t published here. The releases before 2.0 are Chirp, Enzo’s
+earlier name.</sub>
