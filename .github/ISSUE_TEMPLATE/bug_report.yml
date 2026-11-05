@@ -5,13 +5,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a bug! Please fill out the details below.
+        Thanks for reporting it. The details below help us find it quickly.
   - type: input
     id: version
     attributes:
       label: Enzo version
-      description: If you still use Chirp, give its version.
-      placeholder: "e.g. 2.0.0"
+      description: In Enzo, click your name at the bottom of the sidebar, then About.
+      placeholder: "e.g. 2.0.2"
     validations:
       required: true
   - type: input
@@ -40,7 +40,7 @@ body:
         - People
         - Recall
         - Routines
-        - Connected apps
+        - Connections
         - Account or plan
         - Other
     validations:
