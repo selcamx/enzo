@@ -215,6 +215,11 @@ Found a bug or want something changed? [Open an issue](https://github.com/selcam
 For private support, billing or your account, email
 [hello@tryenzo.ai](mailto:hello@tryenzo.ai).
 
-<sub>This repository holds Enzo’s releases and issue tracker. Enzo is a commercial
-app; its source code isn’t published here. The releases before 2.0 are Chirp, Enzo’s
-earlier name.</sub>
+## About this repository
+
+This repository holds Enzo’s releases, their notes and its issue tracker. Enzo itself
+is proprietary software: its source code is private and isn’t published here, and the
+app is licensed to you under the [Terms of Service](https://tryenzo.ai/terms). The
+releases before 2.0 are Chirp, Enzo’s earlier name.
+
+If Enzo helps you, starring this repository helps other people find it.
