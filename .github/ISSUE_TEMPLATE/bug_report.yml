@@ -10,7 +10,7 @@ body:
     id: version
     attributes:
       label: Enzo version
-      description: In Enzo, click your name at the bottom of the sidebar, then About.
+      description: In the menu bar, choose Enzo › About Enzo.
       placeholder: "e.g. 2.0.2"
     validations:
       required: true
