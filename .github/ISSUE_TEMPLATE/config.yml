@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or private support
+    url: https://github.com/selcamx/enzo#support
+    about: Email hello@tryenzo.ai. Please don’t put account details in a public issue.
+  - name: Report a security problem
+    url: https://github.com/selcamx/enzo/security/policy
+    about: Report it privately, not in a public issue.
+  - name: Guides
+    url: https://tryenzo.ai/guides
+    about: How to dictate, record a meeting and get a transcript with speaker names.

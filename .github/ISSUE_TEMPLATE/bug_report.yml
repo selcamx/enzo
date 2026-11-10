@@ -5,20 +5,22 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting it. The details below help us find it quickly.
+        Thanks for reporting it. The quickest way is from Enzo itself: choose **Help › Send Feedback…**
+        in the menu bar. It files the issue here with your version and Mac,
+        sends any diagnostics to us privately, and can credit you by first name.
   - type: input
     id: version
     attributes:
       label: Enzo version
       description: In the menu bar, choose Enzo › About Enzo.
-      placeholder: "e.g. 2.0.2"
+      placeholder: "e.g. 2.0.5"
     validations:
       required: true
   - type: input
     id: macos
     attributes:
       label: macOS version
-      placeholder: "e.g. macOS 15.3 Sequoia"
+      placeholder: "e.g. macOS 15.6 or macOS 26.1"
     validations:
       required: true
   - type: input
@@ -36,11 +38,13 @@ body:
         - Dictation
         - Meetings and recordings
         - Chat
+        - The notch or island
         - Activity
         - People
         - Recall
         - Routines
         - Connections
+        - Setup, sign-in or updates
         - Account or plan
         - Other
     validations:
