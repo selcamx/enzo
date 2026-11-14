@@ -183,19 +183,18 @@ connection. Only Chat and Enzo’s other AI features do.
 
 ## Plans
 
-Free has no time limit. Recording never stops on any plan; plans differ in the AI
-on top and in how much you can dictate and take notes on each week.
+Free has no time limit. Plans differ in how much you can dictate and record each
+week, and in the AI on top.
 
 | | Free<br><sub>$0</sub> | Plus<br><sub>$10 a month</sub> | Pro<br><sub>$20 a month</sub> |
 | :-- | :-: | :-: | :-: |
 | Dictation into your apps* | 5,000 words a week | 30,000 words a week | Unlimited |
-| Meetings with notes, briefs and follow-ups* | 50 minutes a week | 300 minutes a week | Unlimited |
-| Recording, transcripts and speaker names | Unlimited | Unlimited | Unlimited |
+| Meetings with transcripts, speaker names and notes* | 60 minutes a week | 360 minutes a week | Unlimited |
 | AI usage* | Included | 6× Free | 3× Plus |
 | Chat effort | Low | Low, Medium and High | Low, Medium and High |
 | Answers drawn from | Today and your last working day | All your history | All your history |
 | Replies Enzo drafts | Open in your mail app | Open in your mail app | Open in your mail app |
-| Packages, bills and dates checked | Once a day | Every 15 minutes | Every 15 minutes |
+| Inbox watched for bills, deliveries and dates | Once a day | Every 15 minutes | Every 15 minutes |
 | Trackers: ask Chat to keep track of something | | ✓ | ✓ |
 | Recall names each stretch of your day | Your first finished day | ✓ | ✓ |
 | Follow-ups and routines at High effort | | | ✓ |
@@ -205,7 +204,7 @@ on top and in how much you can dictate and take notes on each week.
 a full refund, and cancel anytime. Paying yearly gets you two months free: $100 for
 Plus, $200 for Pro. Plans are chosen and managed in the app.
 
-<sub>*Past a weekly limit on words or minutes, recordings and transcripts still save; dictation into your apps and meeting notes wait until it resets. AI usage renews every 5 hours, within a weekly limit. Long questions and High effort use more. On Free, notes and follow-ups come out of the same weekly limit.</sub>
+<sub>*Past a weekly limit, dictation or meeting recording waits until it resets; a meeting already under way still finishes. AI usage renews every 5 hours, within a weekly limit. Long questions and High effort use more. On Free, notes and follow-ups come out of the same weekly limit.</sub>
 
 <br>
 
