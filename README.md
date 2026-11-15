@@ -210,7 +210,7 @@ week, and in the AI on top.
 a full refund, and cancel anytime. Paying yearly gets you two months free: $100 for
 Plus, $200 for Pro. Plans are chosen and managed in the app.
 
-<sub>*Past a weekly limit, dictation or meeting recording waits until it resets; a meeting already under way still finishes. AI usage renews every 5 hours, within a weekly limit. Long questions and High effort use more. On Free, notes and follow-ups come out of the same weekly limit.</sub>
+<sub>*Past a weekly limit, dictation or meeting recording waits until it resets; a meeting already under way still finishes. AI usage renews every week. Long questions and High effort use more. On Free, notes and follow-ups come out of the same weekly limit.</sub>
 
 <br>
 
