@@ -38,6 +38,12 @@
 
 <br>
 
+https://github.com/user-attachments/assets/aabe9197-c826-4f71-bd7a-e4bad5b5d08f
+
+<p align="center"><sub>Enzo in 70 seconds. The screens are redrawn from the app, the voices are generated and the work is sample work.</sub></p>
+
+<br>
+
 ## Talk instead of typing
 
 Press Right ⌥, talk, press it again. Clean, punctuated text lands at your cursor
