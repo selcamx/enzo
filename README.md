@@ -42,14 +42,14 @@
 
 Press Right ⌥, talk, press it again. Clean, punctuated text lands at your cursor
 in any app, about a tenth of a second after you stop. Enzo transcribes on your
-Mac while you speak, so it works with Wi-Fi off, in 25 languages it tells apart
-on its own.
+Mac while you speak, so it works with Wi-Fi off, in 25 European languages it
+tells apart on its own.
 
 <p align="center">
   <img src=".github/readme/dictation.webp" width="600" alt="A dictated reply in Mail, landed at the cursor in one go, over a summer lake">
 </p>
 
-<p align="center"><sub>Ready in about 100 ms &nbsp;·&nbsp; In any app on your Mac &nbsp;·&nbsp; Works offline</sub></p>
+<p align="center"><sub>Ready in about 100 ms &nbsp;·&nbsp; 25 languages &nbsp;·&nbsp; Works offline</sub></p>
 
 <br>
 
