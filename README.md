@@ -38,7 +38,7 @@
 
 <br>
 
-https://github.com/user-attachments/assets/aabe9197-c826-4f71-bd7a-e4bad5b5d08f
+https://github.com/user-attachments/assets/5ffdf7e7-f242-4c8c-8b4d-dc02fa022551
 
 <p align="center"><sub>Enzo in 70 seconds. The screens are redrawn from the app, the voices are generated and the work is sample work.</sub></p>
 
