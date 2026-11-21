@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">Enzo is an AI assistant that lives in your Mac’s notch.</h3>
+<h3 align="center">Enzo AI — a private AI assistant that lives in your Mac’s notch.</h3>
 
 <p align="center">
   Talk instead of typing, let it take the notes in your meetings,<br>
@@ -31,6 +31,7 @@
   <a href="https://tryenzo.ai/?utm_source=github&utm_campaign=readme">Website</a> &nbsp;·&nbsp;
   <a href="https://tryenzo.ai/pricing">Pricing</a> &nbsp;·&nbsp;
   <a href="https://tryenzo.ai/privacy">Privacy</a> &nbsp;·&nbsp;
+  <a href="https://tryenzo.ai/docs">Docs</a> &nbsp;·&nbsp;
   <a href="https://tryenzo.ai/guides">Guides</a> &nbsp;·&nbsp;
   <a href="https://tryenzo.ai/releases">Release notes</a> &nbsp;·&nbsp;
   <a href="https://x.com/selcamx">X</a>
