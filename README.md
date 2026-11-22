@@ -4,7 +4,7 @@
   <a href="https://tryenzo.ai/?utm_source=github&utm_campaign=readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/readme/enzo-lockup-light.svg">
-      <img src=".github/readme/enzo-lockup-dark.svg" height="46" alt="Enzo">
+      <img src=".github/readme/enzo-lockup-dark.svg" height="46" alt="Enzo AI">
     </picture>
   </a>
 </p>
@@ -145,7 +145,7 @@ routine on demand on Free, and run them on a schedule on Plus and Pro.
   <img src=".github/readme/privacy.webp" width="100%" alt="A lit cabin at night with the Enzo fox asleep on the porch">
 </p>
 
-Enzo is a native macOS app built for Apple Silicon. Listening, speaker
+Enzo AI is a native macOS assistant built for Apple Silicon. Listening, speaker
 recognition, and Recall run locally on your Mac, while Cloud AI is used only for
 reasoning when Chat answers a question, writes meeting notes, or runs a routine.
 
