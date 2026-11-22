@@ -1,30 +1,32 @@
+<br>
+
 <p align="center">
   <a href="https://tryenzo.ai/?utm_source=github&utm_campaign=readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/readme/enzo-at-a-glance-dark.webp">
-      <img src=".github/readme/enzo-at-a-glance-light.webp" width="100%" alt="Enzo, your clever assistant: an AI assistant that lives in your Mac’s notch. Four cards over a painted lake show Dictation (talk instead of typing), Meetings (notes with every speaker named), Recall (remembers your screen) and Chat (ask it anything about your work).">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/readme/enzo-lockup-light.svg">
+      <img src=".github/readme/enzo-lockup-dark.svg" height="46" alt="Enzo">
     </picture>
   </a>
 </p>
 
-<h3 align="center">Enzo AI — a private AI assistant that lives in your Mac’s notch.</h3>
+<h2 align="center">Your assistant for work, school and life.</h2>
 
 <p align="center">
-  Talk instead of typing, let it take the notes in your meetings,<br>
-  and ask it anything about your work.
+  Talk instead of typing, get notes with every speaker named,<br>
+  and ask anything about your work, privately on your Mac.
 </p>
 
 <p align="center">
   <a href="https://tryenzo.ai/download?from=github_readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/readme/download-light.svg">
-      <img src=".github/readme/download-dark.svg" width="232" alt="Download for Mac">
+      <img src=".github/readme/download-dark.svg" width="268" height="52" alt="Download for Mac · Free">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <sub>Free, no card needed &nbsp;·&nbsp; Apple silicon &nbsp;·&nbsp; macOS 15 or later</sub>
+  <sub>No card needed &nbsp;·&nbsp; Apple Silicon (M1 or newer) &nbsp;·&nbsp; macOS 15+ &nbsp;·&nbsp; Signed &amp; notarized &nbsp;·&nbsp; <a href="https://github.com/selcamx/enzo/releases/latest">Latest release</a></sub>
 </p>
 
 <p align="center">
@@ -41,177 +43,155 @@
 
 https://github.com/user-attachments/assets/5ffdf7e7-f242-4c8c-8b4d-dc02fa022551
 
-<p align="center"><sub>Enzo in 70 seconds. The screens are redrawn from the app, the voices are generated and the work is sample work.</sub></p>
+<p align="center"><sub>Enzo in 70 seconds. The screens are redrawn from the app, the voices are generated, and the work is sample work.</sub></p>
 
 <br>
 
 ## Talk instead of typing
 
-Press Right ⌥, talk, press it again. Clean, punctuated text lands at your cursor
+Press Right `⌥`, talk, press it again. Clean, punctuated text lands at your cursor
 in any app, about a tenth of a second after you stop. Enzo transcribes on your
-Mac while you speak, so it works with Wi-Fi off, in 25 European languages it
+Mac while you speak, so it works with Wi-Fi off across 25 European languages it
 tells apart on its own.
 
 <p align="center">
-  <img src=".github/readme/dictation.webp" width="600" alt="A dictated reply in Mail, landed at the cursor in one go, over a summer lake">
+  <img src=".github/readme/dictation.webp" width="640" alt="A dictated reply in Mail, landed at the cursor in one go, over a summer lake">
 </p>
 
-<p align="center"><sub>Ready in about 100 ms &nbsp;·&nbsp; 25 languages &nbsp;·&nbsp; Works offline</sub></p>
+<p align="center"><sub>Ready in about 100 ms &nbsp;·&nbsp; 25 European languages &nbsp;·&nbsp; Works offline</sub></p>
 
 <br>
 
-## Notes with every speaker named
+## Meeting notes without a bot in your call
 
-When a call starts, Enzo offers to record it from your Mac, so no bot joins. It
-tells every person apart by their voice, on a call or around one mic in a room,
-and once you’ve named someone it knows them in every meeting after. Ask about the
-call while it’s on. When it ends, the transcript is ready in seconds, and Enzo
-writes the notes and your follow-ups.
+When a call starts, Enzo offers to record it directly from your Mac’s audio, so
+no bot joins the invite. It tells every person apart by voice, on a call or
+around one mic in a room, and once you name someone in **People** it recognizes
+them in future meetings. Ask about the call while it’s still live. When it ends,
+the transcript is ready in seconds, and Enzo writes the notes in the meeting’s
+language along with your follow-ups.
 
 <p align="center">
-  <img src=".github/readme/meetings.webp" width="600" alt="Enzo’s notch open on a call’s live transcript, with Juno, Maya, You and Kai each named as they talk">
+  <img src=".github/readme/meetings.webp" width="640" alt="Enzo’s notch open on a call’s live transcript, with Juno, Maya, You and Kai each named as they talk">
 </p>
 
-<p align="center"><sub>Zoom, Meet, Teams and FaceTime &nbsp;·&nbsp; Who said what, by name &nbsp;·&nbsp; Audio never leaves your Mac</sub></p>
+<p align="center"><sub>Zoom, Meet, Teams, FaceTime and rooms &nbsp;·&nbsp; Who said what, by name &nbsp;·&nbsp; Audio never leaves your Mac</sub></p>
 
 <br>
 
-## Remembers your screen
+## Find anything you saw or worked on
 
-Turn on **Recall** and Enzo keeps the apps, window titles and text on your screen,
-encrypted on your Mac, so you can find any of it again and Chat can answer from
-it. It keeps text, never screenshots, and passwords, API keys and card numbers
-are hidden before anything is kept.
+**Recall** is off until you turn it on. It saves the apps, window titles, and
+readable text from your screen in an encrypted timeline on your Mac, so you can
+search your day or ask Chat about it later. It keeps text rather than a
+screenshot archive, and passwords, API keys, and card numbers are redacted
+before anything is stored.
 
 <p align="center">
-  <img src=".github/readme/recall.webp" width="600" alt="Recall’s page for a day: the stretches of work in order, with the apps, a call and how long each took">
+  <img src=".github/readme/recall.webp" width="640" alt="Recall’s page for a day: the stretches of work in order, with the apps, a call and how long each took">
 </p>
 
-<p align="center"><sub>Off until you turn it on &nbsp;·&nbsp; No screenshots kept &nbsp;·&nbsp; Pause it, or keep apps and sites out</sub></p>
+<p align="center"><sub>Off until you turn it on &nbsp;·&nbsp; No screenshot archive &nbsp;·&nbsp; Pause it, or exclude any app or site</sub></p>
 
 <br>
 
-## Ask it anything about your work
+## Ask anything without pasting context
 
-Press Right ⌘ in any app and ask. **Chat** answers from your meetings, what Recall
-kept, a document you drop in, what’s on your screen, and the apps you connect:
-Mail, Calendar, Reminders, Contacts, Notes, Messages and your folders. Every
-answer links what it used. Enzo drafts the reply or the calendar event, and
-nothing is sent until you confirm it.
+Press Right `⌘` in any app and ask. **Chat** answers from your meetings, Recall,
+a document you drop in, what’s on your screen, and the Mac apps you connect:
+Mail, Calendar, Messages, Notes, Reminders, Contacts, and Folders. Every answer
+links the exact sources it read, and Chat’s home screen surfaces replies you owe
+and upcoming dates. Replies open as drafts in Mail, and nothing is sent or added
+until you confirm it.
 
 <p align="center">
-  <img src=".github/readme/chat.webp" width="600" alt="Chat answering “When does Juno need the quote?” from an email and a call’s transcript, above the apps Enzo can read">
+  <img src=".github/readme/chat.webp" width="640" alt="Chat answering “When does Juno need the quote?” from an email and a call’s transcript, above the apps Enzo can read">
 </p>
 
-<p align="center"><sub>Nothing to explain or paste in &nbsp;·&nbsp; Nothing sent without your click &nbsp;·&nbsp; You choose what it can read</sub></p>
+<p align="center"><sub>Every source linked &nbsp;·&nbsp; Nothing sent without your click &nbsp;·&nbsp; You choose which apps connect</sub></p>
 
 <br>
 
-## Keeps track so you don’t have to
+## Routines with the answer waiting
 
-Once your mail and calendar are connected, Enzo lists what needs you, what’s coming
-up and what you’re waiting on, all in one place: **Activity**.
-
-<p align="center">
-  <img src=".github/readme/keeps-track.webp" width="600" alt="Activity: a reply Juno is waiting for, a quote promised by Friday, and a standing desk arriving today">
-</p>
-
-<p align="center"><sub>Packages, returns, bills and renewals &nbsp;·&nbsp; Replies you owe, and what’s coming up &nbsp;·&nbsp; On Plus, the notch tells you what changed</sub></p>
-
-<br>
-
-## Has the answer waiting
-
-A **routine** is a question Enzo asks for you at a set time, like what’s on today
-and what you still owe. The answer is ready when you get there.
+A **routine** is a recurring question Enzo runs for you at a set time, like a
+morning plan, open follow-ups, or an end-of-day recap, so the answer is ready
+when you sit down. Start from built-in templates or write your own, preview any
+routine on demand on Free, and run them on a schedule on Plus and Pro.
 
 <p align="center">
-  <img src=".github/readme/routines.webp" width="600" alt="Routines: Start my day, Get ready for tomorrow and Today’s changelog, each on weekdays at a set time">
+  <img src=".github/readme/routines.webp" width="640" alt="Routines: Start my day, Get ready for tomorrow and Today’s changelog, each on weekdays at a set time">
 </p>
 
-<p align="center"><sub>Every day, weekdays, weekly or monthly &nbsp;·&nbsp; Start from one of Enzo’s, or write your own &nbsp;·&nbsp; On every plan</sub></p>
+<p align="center"><sub>Daily, weekdays, weekly or monthly &nbsp;·&nbsp; Built-in templates or custom prompts</sub></p>
 
 <br>
 
 ## The small things
 
-<p align="center">
-  <img src=".github/readme/small-things.webp" width="100%" alt="Ten more things Enzo does: hides itself when you share your screen; detects a call starting and offers to record it; detects a second speaker and switches to meeting notes; recognizes people by voice once you’ve named them; answers questions about a meeting while it’s still on; plays back the exact moment something was said; reads any document you drop in, and answers from it; answers questions about what’s on your screen; pauses your music while you dictate; lives in the notch, a floating island, or its own window.">
-</p>
-
-<br>
-
-## Built for the Mac
-
-**Designed to blend in with your Mac.** Enzo is a native Mac app. It lives in the
-notch, on a small island at any edge of your screen, or in its own window, and
-every detail is made to look and feel like it came with your Mac.
-
-**Engineered to make the most of your Mac.** The listening runs on your Mac’s
-Neural Engine, which is why dictation is fast, works offline and never sends
-audio anywhere. The thinking comes from a large model in the cloud, which gets
-only what a question or a task needs.
-
-| On your Mac | With Enzo’s cloud AI |
+| | |
 | :-- | :-- |
-| Dictation, recording and transcription | Chat’s answers |
-| Telling speakers apart and recognizing voices | Meeting notes, titles and follow-ups |
-| Recall: reading, keeping and searching your screen’s text | The replies you owe, and trackers you start |
-| Your recordings, transcripts, chats and voice profiles | Recall’s names for each stretch of your day |
+| **Ghost mode** · Hides Enzo’s windows and notch automatically when you share your screen | **Notch, island, or window** · Lives in the camera notch, a movable floating island, or its own window |
+| **Call detection** · Notices Zoom, Meet, Teams, or FaceTime starting and offers to record | **Auto-switches to Meet** · Starts as dictation and switches when a second voice joins |
+| **Live meeting Chat** · Ask what was decided so far while the call is still going | **Click to replay** · Jump to the exact moment something was said in **Speak** |
+| **Drop in any file** · Attach PDFs, spreadsheets, images, or docs and ask about them | **Screen awareness** · Ask Chat about whatever window is open in front of you |
+| **Music auto-pause** · Pauses playback while you dictate and resumes when you finish | **Speak stats** · Track dictated words, time saved, and monthly activity on your Mac |
 
 <br>
 
-## Keeps everything to itself
+## Built for your Mac, not our servers
 
 <p align="center">
   <img src=".github/readme/privacy.webp" width="100%" alt="A lit cabin at night with the Enzo fox asleep on the porch">
 </p>
 
-**Stays on your Mac.** Recordings, transcripts, chats and Recall are stored on your
-Mac, never synced or backed up to our servers. Transcription runs there too, so
-audio never leaves.
+Enzo is a native macOS app built for Apple Silicon. Listening, speaker
+recognition, and Recall run locally on your Mac, while Cloud AI is used only for
+reasoning when Chat answers a question, writes meeting notes, or runs a routine.
 
-**Only what’s needed leaves.** Chat, notes and Enzo’s other AI features send what
-they need, like your question, a meeting’s transcript or, when the text isn’t
-enough, a picture of your screen or a file you attached, through Enzo’s service to
-an AI provider. The service keeps none of it, and the provider keeps it only
-briefly to check for abuse.
+| Runs & stays on your Mac | Uses Cloud AI (Claude) |
+| :-- | :-- |
+| Dictation, call recording, and transcription | Chat’s answers |
+| Speaker separation and voice recognition | Meeting notes, titles, and follow-ups |
+| Recall capture, encryption, and local search | Replies you owe and scheduled routines |
+| Your audio, transcripts, chats, and voice profiles | Recall’s AI titles for each stretch of your day |
 
-**You choose what runs.** Enzo works from the apps you connect, and Settings shows
-what its AI does on its own. Recall starts off. Pause any app, keep apps and sites
-out, or delete what was saved, whenever you like.
+- **Local on Apple Silicon.** Audio, transcripts, chats, voice profiles, and Recall live in local files on your Mac, never synced or backed up to our servers. Deleting a recording, a person, or a day erases it immediately.
+- **Cloud AI only for reasoning.** When Chat answers a question or writes notes, only the relevant excerpts (or an attached file or screen view when text isn’t enough) go through Enzo’s service to Claude. Our service stores none of it, and Anthropic never trains on it.
+- **Off until you say yes.** Recall starts off, Mac apps connect only when you choose them, and **Settings › Privacy** controls everything Enzo’s AI does automatically.
+- **Works offline.** Once local models finish downloading during setup, dictation, meeting recording, speaker recognition, and local search work without internet.
 
-**Works without internet.** Dictation, recording and transcription need no
-connection. Only Chat and Enzo’s other AI features do.
-
-[How Enzo handles your data →](https://tryenzo.ai/privacy)
+[Read how Enzo protects your data →](https://tryenzo.ai/privacy)
 
 <br>
 
 ## Plans
 
-Free has no time limit. Plans differ in how much you can dictate and record each
-week, and in the AI on top.
+Start free with no time limit and no credit card. Upgrade in the app when you
+want unlimited dictation, more meeting minutes, full-history Chat, and scheduled
+routines.
 
-| | Free<br><sub>$0</sub> | Plus<br><sub>$10 a month</sub> | Pro<br><sub>$20 a month</sub> |
+| What you get | Free<br><sub>$0</sub> | Plus<br><sub>$10 / month</sub> | Pro<br><sub>$20 / month</sub> |
 | :-- | :-: | :-: | :-: |
-| Dictation into your apps* | 5,000 words a week | 30,000 words a week | Unlimited |
-| Meetings with transcripts, speaker names and notes* | 60 minutes a week | 360 minutes a week | Unlimited |
-| AI usage* | Included | 6× Free | 3× Plus |
-| Chat effort | Low | Low, Medium and High | Low, Medium and High |
-| Answers drawn from | Today and your last working day | All your history | All your history |
-| Replies Enzo drafts | Open in your mail app | Open in your mail app | Open in your mail app |
-| Inbox watched for bills, deliveries and dates | Once a day | Every 15 minutes | Every 15 minutes |
-| Trackers: ask Chat to keep track of something | | ✓ | ✓ |
-| Recall names each stretch of your day | Your first finished day | ✓ | ✓ |
-| Follow-ups and routines at High effort | | | ✓ |
+| Dictation into your apps* | 5,000 words / week | **Unlimited** | **Unlimited** |
+| Meetings with speaker notes* | 60 minutes / week | 180 minutes / week | **Unlimited** |
+| Weekly AI allowance* | Included | 5× Free | 20× Free |
+| Chat effort | Low | Low, Medium & High | Low, Medium & High |
+| Chat memory | Today & last working day | All your history | All your history |
+| Scheduled routines | Try on demand | ✓ | At High effort |
+| Your day in Recall named by AI | First finished day | ✓ | ✓ |
+| Finds replies you owe in Mail & Messages | Once a day | Every 15 minutes | Every 15 minutes |
 
-**14-day money-back guarantee on Plus and Pro.** Write to
-[hello@tryenzo.ai](mailto:hello@tryenzo.ai) within 14 days of your first payment for
-a full refund, and cancel anytime. Paying yearly gets you two months free: $100 for
-Plus, $200 for Pro. Plans are chosen and managed in the app.
+Every plan names who spoke by voice, includes local Recall timeline and search,
+reads every Mac app you connect, opens replies as drafts in Mail, and keeps your
+history on your Mac.
 
-<sub>*Past a weekly limit, dictation or meeting recording waits until it resets; a meeting already under way still finishes. AI usage renews every week. Long questions and High effort use more. On Free, notes and follow-ups come out of the same weekly limit.</sub>
+**14-day money-back guarantee on Plus and Pro.** Request a full refund within 14
+days of your first payment from **Settings › Billing** or by emailing
+[hello@tryenzo.ai](mailto:hello@tryenzo.ai), and cancel anytime. Annual billing
+gives you two months free ($100/year for Plus, $200/year for Pro).
+
+<sub>*Past a weekly limit, new dictation or meeting recording waits until your weekly reset; a recording already under way always finishes, and everything saved stays readable. AI usage renews every week. Long questions and High effort use more.</sub>
 
 <br>
 
@@ -221,18 +201,32 @@ Plus, $200 for Pro. Plans are chosen and managed in the app.
 <summary><b>How do I get started?</b></summary>
 <br>
 
-Download Enzo, sign in with Apple, Google or an email code, and allow the permissions
-it asks for. Enzo downloads its models (about 1.1 GB), and dictation is ready after
-the first 520 MB: press Right ⌥ and talk.
+Download Enzo, sign in with Apple, Google, or an email code, and choose Notch or
+Island. Enzo downloads its local speech, speaker, and text models (about 1.1 GB)
+while you walk through setup, and dictation is ready after the first 518 MB:
+press Right `⌥` and talk.
 
 </details>
 
 <details>
-<summary><b>Why do I need an account?</b></summary>
+<summary><b>Does Enzo upload my recordings or Recall?</b></summary>
 <br>
 
-A free Enzo account signs you in, applies your plan and measures your AI usage
-across your Macs. It holds no recordings or history; those stay on your Mac.
+No. Audio, transcripts, chats, voice profiles, and Recall are stored on your Mac
+and never synced to our servers. Speech and speaker recognition run locally on
+Apple Silicon. Only when Chat answers a question or writes meeting notes does
+Enzo send the needed text excerpts to Claude. Our service keeps none of it, and
+Anthropic never trains on it.
+
+</details>
+
+<details>
+<summary><b>Why do I need an account to use Free?</b></summary>
+<br>
+
+A free Enzo account signs you in, applies your plan, and tracks your weekly
+allowances across your Macs, with no credit card required. It never stores your
+recordings, transcripts, chats, or Recall.
 
 </details>
 
@@ -240,90 +234,56 @@ across your Macs. It holds no recordings or history; those stay on your Mac.
 <summary><b>Does a bot join my meetings?</b></summary>
 <br>
 
-No. Enzo records the meeting from your Mac’s own audio, so it works with Zoom, Meet,
-Teams, FaceTime and other calling apps without inviting a bot. Letting people know
-they’re being recorded is up to you, as with any recorder.
+No. Enzo captures your Mac’s mic and system audio directly, so no bot joins the
+invite or participant list. It works across Zoom, Google Meet, Microsoft Teams,
+FaceTime, Slack Huddles, and in-person rooms, and Ghost mode hides Enzo
+automatically when you share your screen. Letting people know they’re being
+recorded is up to you, as with any recorder.
 
 </details>
 
 <details>
-<summary><b>How fast is dictation?</b></summary>
+<summary><b>How fast is dictation, and does it work offline?</b></summary>
 <br>
 
-About a tenth of a second from when you stop talking to your words as text, for a
-typical dictation. Enzo transcribes on your Mac while you speak, so little is left
-when you stop: a seven-minute dictation is ready in about a quarter of a second, and
-an hour-long one in about two (M4 Mac, measured November 2026).
+Typical dictations appear about 0.1 seconds after you stop speaking. Because
+Enzo transcribes on your Mac while you talk, a seven-minute dictation finishes
+in about 0.25 seconds and an hour-long one in about two seconds (M4 Mac,
+November 2026). Dictation, meeting recording, speaker recognition, and local
+search all work 100% offline; only Chat and AI notes need internet.
 
 </details>
 
 <details>
-<summary><b>Does it work offline?</b></summary>
+<summary><b>Can Enzo send emails or change my calendar on its own?</b></summary>
 <br>
 
-Dictation, recording and transcription do, once the models are downloaded.
-Chat and other AI features need a connection.
+Never. You choose which Mac apps to connect (Mail, Calendar, Messages, Notes,
+Reminders, Contacts, and Folders), and Enzo reads them read-only. Replies open
+as editable drafts in Mail, and calendar events or reminders wait for you to
+confirm them.
 
 </details>
 
 <details>
-<summary><b>What does Recall keep?</b></summary>
+<summary><b>Which Macs, external monitors, and languages are supported?</b></summary>
 <br>
 
-Recall is off until you turn it on. It keeps the apps, window and document titles
-and the readable text on your screen, encrypted on your Mac, and deletes it after
-30 days unless you choose another period. It never keeps a screenshot archive. You
-can pause it, exclude apps and sites, and delete what it kept at any time.
+Any Mac with Apple Silicon (M1 or newer) running macOS 15 Sequoia or later. On
+external displays without a notch, Enzo sits neatly at the top edge or as a
+movable floating island. Dictation and meetings support 25 European languages
+automatically, and post-meeting notes match the language spoken in the meeting.
+The app interface is in English.
 
 </details>
 
 <details>
-<summary><b>Which languages does it support?</b></summary>
+<summary><b>I used Chirp. What happens to it?</b></summary>
 <br>
 
-Dictation and meetings work in 25 European languages, including English, Spanish,
-French and German, and Enzo tells which on its own. The app itself is in English.
-
-</details>
-
-<details>
-<summary><b>What does Enzo keep track of?</b></summary>
-<br>
-
-Once Apple Mail is connected: packages, returns, refunds, renewals,
-bills, school work, invitations and appointments. Enzo reads the sender, subject and
-preview of new mail on your Mac, by rules and with no AI, and lists what it finds in
-Activity. With its AI working on its own, it also finds the replies you owe, sending
-the sender, subject and a short preview of those messages to do it.
-
-</details>
-
-<details>
-<summary><b>Will Enzo send things on its own?</b></summary>
-<br>
-
-No. Enzo drafts replies, reminders and calendar events, and creates or sends
-one only when you confirm it.
-
-</details>
-
-<details>
-<summary><b>Which Macs does it run on?</b></summary>
-<br>
-
-Apple silicon Macs, M1 or newer, with macOS 15 or later. On a screen without a
-notch, Enzo sits at the top of the screen, or on its island.
-
-</details>
-
-<details>
-<summary><b>I use Chirp. What happens to it?</b></summary>
-<br>
-
-Chirp keeps working on your Mac, but it won’t get any more updates. Enzo is a new
-app that starts fresh: it doesn’t bring over Chirp’s recordings, settings or
-license. If you bought Chirp, look out for an email from us. Older release notes
-still say Chirp, because that was the name at the time.
+Chirp keeps working on your Mac, and won’t receive further updates. Enzo 2.0 is
+a new app that starts fresh without importing Chirp’s recordings, settings, or
+license. Releases prior to 2.0 in this repository are historical Chirp builds.
 
 </details>
 
@@ -331,19 +291,21 @@ still say Chirp, because that was the name at the time.
 
 ## Support
 
-Found a bug or want something changed? Tell us from Enzo: choose
-**Help › Send Feedback…** in the menu bar. It opens an issue here, sends any
-diagnostics to us privately, and can credit you by first name. You can also
-[open an issue](https://github.com/selcamx/enzo/issues/new/choose) yourself. For private
-support, billing or your account, email [hello@tryenzo.ai](mailto:hello@tryenzo.ai).
-To report a security problem, see the [security policy](SECURITY.md).
+Found a bug or have a feature request? The fastest path is inside Enzo: choose
+**Help › Send Feedback…** in the menu bar. It opens an issue here with your app
+and macOS version, sends sanitized diagnostics to us privately, and can credit
+you by first name.
+
+- **Bug reports & feature requests:** [Open an issue](https://github.com/selcamx/enzo/issues/new/choose)
+- **Setup, permissions & shortcuts:** [Documentation](https://tryenzo.ai/docs)
+- **Account, billing & private support:** [hello@tryenzo.ai](mailto:hello@tryenzo.ai)
+- **Security vulnerabilities:** See [SECURITY.md](SECURITY.md)
 
 ## About this repository
 
-This repository holds Enzo’s releases, their notes and its issue tracker. Enzo itself
-is proprietary software: its source code is private and isn’t published here, and the
-app is licensed to you under the [Terms of Service](https://tryenzo.ai/terms). The
-releases before 2.0 are Chirp, Enzo’s earlier name.
+This public repository hosts Enzo’s signed macOS releases, release notes, and
+issue tracker. Enzo is proprietary software: its source code is private, and use
+of the app is governed by the [Terms of Service](https://tryenzo.ai/terms).
 
-Enzo is built by Selim Cam. Follow along on [X](https://x.com/selcamx). If Enzo
-helps you, starring this repository helps other people find it.
+Built by [Selim Cam](https://github.com/selcamx) · Follow updates on [X](https://x.com/selcamx).
+If Enzo saves you time, starring this repository helps others discover it.

@@ -1,19 +1,19 @@
 name: Bug Report
-description: Report a bug in Enzo
+description: Report a bug in Enzo for Mac
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting it. The quickest way is from Enzo itself: choose **Help › Send Feedback…**
-        in the menu bar. It files the issue here with your version and Mac,
-        sends any diagnostics to us privately, and can credit you by first name.
+        Thanks for reporting an issue. The quickest way is right inside Enzo: choose **Help › Send Feedback…**
+        in the menu bar. It files the issue here with your version and Mac details,
+        sends sanitized diagnostics to us privately, and can credit you by first name.
   - type: input
     id: version
     attributes:
       label: Enzo version
       description: In the menu bar, choose Enzo › About Enzo.
-      placeholder: "e.g. 2.0.5"
+      placeholder: "e.g. 2.0.9"
     validations:
       required: true
   - type: input
@@ -26,8 +26,8 @@ body:
   - type: input
     id: chip
     attributes:
-      label: Mac chip
-      placeholder: "e.g. M4 Air, M1 Pro"
+      label: Mac model / chip
+      placeholder: "e.g. M4 MacBook Air, M2 Pro Mac mini"
     validations:
       required: true
   - type: dropdown
@@ -36,16 +36,15 @@ body:
       label: Which part of Enzo?
       options:
         - Dictation
-        - Meetings and recordings
+        - Meetings and Speak (recordings)
         - Chat
-        - The notch or island
-        - Activity
-        - People
         - Recall
         - Routines
-        - Connections
-        - Setup, sign-in or updates
-        - Account or plan
+        - People (voice profiles)
+        - Connections (Mail, Calendar, etc.)
+        - Notch, island, or Ghost mode
+        - Setup, permissions, or updates
+        - Account or billing
         - Other
     validations:
       required: true
@@ -53,7 +52,7 @@ body:
     id: description
     attributes:
       label: What happened?
-      placeholder: Describe what you expected vs what actually happened.
+      placeholder: Describe what you expected versus what actually happened.
     validations:
       required: true
   - type: textarea
