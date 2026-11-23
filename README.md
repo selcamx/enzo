@@ -4,7 +4,7 @@
   <a href="https://tryenzo.ai/?utm_source=github&utm_campaign=readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/readme/enzo-lockup-light.svg">
-      <img src=".github/readme/enzo-lockup-dark.svg" height="48" alt="Enzo AI">
+      <img src=".github/readme/enzo-lockup-dark.svg" height="48" alt="Enzo Mac App">
     </picture>
   </a>
 </p>
@@ -12,7 +12,7 @@
 <h2 align="center">Your assistant for work, school and life.</h2>
 
 <p align="center">
-  <strong>Enzo AI</strong> is a native macOS assistant that lives in your Mac’s notch or floating island.<br>
+  <strong>Enzo</strong> (the <a href="https://tryenzo.ai">Enzo Mac app</a> / Enzo AI) is a native macOS assistant that lives in your Mac’s notch or floating island.<br>
   Talk instead of typing, get bot-free meeting notes with every speaker named,<br>
   and ask anything about your work — privately on Apple Silicon.
 </p>
@@ -152,7 +152,7 @@ Turn recurring questions into **Routines** — a morning plan, open follow-ups, 
   <img src=".github/readme/privacy.webp" width="100%" alt="A lit cabin at night with the Enzo fox asleep on the porch">
 </p>
 
-Enzo AI is a native SwiftUI assistant built for Apple Silicon with a strict local-first boundary. Audio, transcripts, voiceprints, chats, and Recall stay in `~/Library/Application Support/Enzo` on your Mac and are never synced or backed up to our servers.
+The Enzo Mac app is a native SwiftUI AI assistant built for Apple Silicon with a strict local-first boundary. Audio, transcripts, voiceprints, chats, and Recall stay in `~/Library/Application Support/Enzo` on your Mac and are never synced or backed up to our servers.
 
 ```mermaid
 flowchart LR
